@@ -1,0 +1,13 @@
+<?php 
+   /**
+    *自定义一个函数dirSize，统计传入参数的目录大小
+    *author:caodi
+    *date:2015-1-22
+    *@parm    string    $directory    目录名称
+    *@return  double                  目录的尺寸大小
+    */
+    function dirSize($directory){
+    
+    }
+
+?>
